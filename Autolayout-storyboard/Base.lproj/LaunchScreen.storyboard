@@ -106,10 +106,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="wLP-0Z-vqm" secondAttribute="bottom" id="Bvd-ST-KAQ"/>
                             <constraint firstItem="wLP-0Z-vqm" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="FCg-qB-QVE"/>
                             <constraint firstAttribute="trailing" secondItem="wLP-0Z-vqm" secondAttribute="trailing" id="KDV-s7-BIj"/>
                             <constraint firstItem="wLP-0Z-vqm" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="VrC-En-LaN"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="wLP-0Z-vqm" secondAttribute="bottom" id="jJr-pJ-Uzz"/>
                         </constraints>
                     </view>
                 </viewController>
